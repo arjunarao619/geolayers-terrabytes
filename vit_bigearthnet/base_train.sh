@@ -1,1 +1,0 @@
-python train.py --name cifar10-100_500 --dataset cifar10 --model_type ViT-B_16 
