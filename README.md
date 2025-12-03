@@ -252,12 +252,18 @@ Available Input Modalities
 
 
 ```
-@inproceedings{
-  rao2025using,
-  title={Using Multiple Input Modalities can Improve Data-Efficiency and O.O.D. Generalization for {ML} with Satellite Imagery},
-  author={Arjun Rao and Esther Rolf},
-  booktitle={TerraBytes - ICML 2025 workshop},
-  year={2025},
-  url={https://www.arxiv.org/abs/2507.13385}
+@InProceedings{rao2025using,
+  title = 	 {Using Multiple Input Modalities can Improve Data-Efficiency and O.O.D. Generalization for {ML} with Satellite Imagery},
+  author =       {Rao, Arjun and Rolf, Esther},
+  booktitle = 	 {Proceedings of The TerraBytes {ICML} Workshop: Towards global datasets and models for Earth Observation},
+  pages = 	 {166--188},
+  year = 	 {2025},
+  editor = 	 {Audebert, Nicolas and Azizpour, Hossein and Barrière, Valentin and Castillo Navarro, Javiera and Czerkawski, Mikolaj and Fang, Heng and Francis, Alistair and Marsocci, Valerio and Nascetti, Andrea and Yadav, Ritu},
+  volume = 	 {292},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {19 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v292/main/assets/rao25a/rao25a.pdf},
+  url = 	 {https://proceedings.mlr.press/v292/rao25a.html}
 }
 ```
